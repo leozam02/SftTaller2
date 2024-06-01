@@ -1,2 +1,2 @@
 # Taller02-Aspectos
-![Título Img](./resultado.jpg)
+![Título Img](./resultado.jpeg)
